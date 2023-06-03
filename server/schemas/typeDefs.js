@@ -34,7 +34,6 @@ input SavedBookInput {
         description: String
         bookId: String
         image: String
-        forSale: String
         link: String
         title: String
     }
